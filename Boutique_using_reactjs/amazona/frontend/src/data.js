@@ -1,0 +1,40 @@
+export default  {
+  products: [
+    {
+      name: "Slim Shirt",
+      category: "Shirts",
+      image: "/images/d1.jpg",
+      price: 899,
+      brand: "Denim",
+      rating: 4.5,
+      numReviews: 10,
+    },
+    {
+      name: "Fit Shirt",
+      category: "Shirts",
+      image: "/images/d2.jpg",
+      price: 1200,
+      brand: "Nike",
+      rating: 4.1,
+      numReviews: 15,
+    },
+    {
+      name: "Jeans set",
+      category: "Pants",
+      image: "/images/p1.jpg",
+      price: 1549,
+      brand: "Puma",
+      rating: 4.7,
+      numReviews: 3,
+    },
+    {
+      name: "Fancy Shirt",
+      category: "Pants",
+      image: "/images/d3.jpg",
+      price: 3649,
+      brand: "Buffalo",
+      rating: 4.9,
+      numReviews: 40,
+    },
+  ],
+};
