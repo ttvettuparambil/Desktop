@@ -165,6 +165,12 @@
   }
 }
 @media only screen and (max-width: 991px) {
+  header{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.199);
+  }
+  #logo{
+    margin: 0 auto;
+  }
   #logo img {
     max-width: 150px;
   }
